@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed&family=Libre+Franklin&family=Pacifico&display=swap');
+
 /* Create color variables for themes*/
 :root {
     --primary-color: rgb(255, 92, 92);
@@ -28,6 +30,7 @@ html {
 body {
     margin: 0;    
     color: var(--on-background);
+    font-family: 'Libre Franklin', sans-serif;
     background-color: var(--background);      
 }
 
@@ -42,9 +45,11 @@ section {
 h1 {
     font-size: 80px;
     margin-bottom: 0;
+    font-family: 'Pacifico', cursive;
 }
 
 h2 {
+    color: var(--on-background-alt);
     font-size: 32px;
     font-weight: normal;
 }
@@ -54,6 +59,7 @@ nav {
     z-index: 10;
     position: fixed;
     font-size: 24px;
+    font-family: 'Barlow Condensed', sans-serif;
     letter-spacing: 3px;
     padding: 25px;
     width: 100vw;
