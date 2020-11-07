@@ -15,4 +15,4 @@ JavaScript, HTML, CSS.
 
 ### Screenshots
 
-![alt text](https://github.com/justPerson787/Dark-Light-Theme/blob/master/img/screenshot.png "screenshot"). ![alt text](https://github.com/justPerson787/Dark-Light-Theme/blob/master/img/screenshot2.png "screenshot").
+![alt text](https://github.com/justPerson787/Dark-Light-Theme/blob/master/img/screenshot.png "screenshot").     ![alt text](https://github.com/justPerson787/Dark-Light-Theme/blob/master/img/screenshot2.png "screenshot").
